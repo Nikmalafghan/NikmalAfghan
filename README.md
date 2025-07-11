@@ -4,8 +4,7 @@ Welcome to my GitHub! I'm a self-taught web and Android developer passionate abo
 
 🔧 What I Do
 
-- 🌐 Frontend & Backend Web Development  
-- 📲 cross platform App Development (ReactNative, Javascript)  
+- 🌐 Frontend & Backend Web Development   
 - ⚡ AI & Generative Tools (OpenAI, DALL·E)  
 - 💡 Startup-minded: building real apps that solve real problems
 
@@ -14,7 +13,6 @@ Welcome to my GitHub! I'm a self-taught web and Android developer passionate abo
 🚀 Projects
 
 🎨 [campin webapp](https://camping-in-afghanistan.vercel.app/)
-> A web app that turns your text prompts into stunning AI-generated images using OpenAI and Vercel.
 
 💸 P2P Money Transfer Web App *(in progress)*
 > A secure web application for people in Afghanistan to send and receive money — focusing on simplicity and trust.
@@ -41,7 +39,6 @@ Welcome to my GitHub! I'm a self-taught web and Android developer passionate abo
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
