@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a self-taught web and Android developer passionate abo
 
 🚀 Projects
 
-🎨 [AI Image Generator](https://camping i.vercel.app](https://camping-in-afghanistan.vercel.app/)
+🎨 [campin webapp](https://camping-in-afghanistan.vercel.app/)
 > A web app that turns your text prompts into stunning AI-generated images using OpenAI and Vercel.
 
 💸 P2P Money Transfer Web App *(in progress)*
